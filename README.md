@@ -1,0 +1,1 @@
+This repository is about learning word embeddings using gensim Word2Vec and fastText method
